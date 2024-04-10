@@ -1,0 +1,35 @@
+body{
+background-color:#330070;
+color:blue ;
+}
+.form{
+text-align:center ;
+border:3px solid white ;
+border-radius:5px ;
+margin:12px;
+color:white ;
+background-color:#2E0061;
+}
+.d{
+  display: flex;
+  flex-direction: row;  /* ترتيب العناصر أفقيا */
+  justify-content: center;  /* محاذاة العناصر أفقيًا في المنتصف */
+  align-items: center;  /* محاذاة العناصر عموديًا في المنتصف */
+}
+.bi{
+width:150px;
+border:3px solid white ;
+}
+.p{background-color:black;}
+#div {
+ 
+  text-align:center ;
+border:3px solid white ;
+border-radius:5px ;
+margin:2px;
+color:white ;
+background-color:#2E0061;
+}
+
+
+
